@@ -34,7 +34,7 @@ Dibuat menggunakan **HTML + CSS + JavaScript vanilla**, tanpa framework tambahan
 
 ## 🖼️ Preview
 <p align="center">
-  <img src="assets/preview.png" alt="Preview" width="10"/>
+  <img src="assets/preview.png" alt="Preview" width="300"/>
 </p>
 
 ## 👨‍💻 Author
