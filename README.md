@@ -33,8 +33,9 @@ Dibuat menggunakan **HTML + CSS + JavaScript vanilla**, tanpa framework tambahan
 ---
 
 ## 🖼️ Preview
-![Preview](assets/preview.png)
----
+<p align="center">
+  <img src="assets/preview.png" alt="Preview" width="500"/>
+</p>
 
 ## 👨‍💻 Author
 **DINNS STORE**  
