@@ -33,8 +33,7 @@ Dibuat menggunakan **HTML + CSS + JavaScript vanilla**, tanpa framework tambahan
 ---
 
 ## 🖼️ Preview
-![Preview]([https://i.ibb.co/3Bd4W65/preview-dinns-store.png](https://files.catbox.moe/zgwrbe.jpg))
-
+![Preview](assets/preview.png)
 ---
 
 ## 👨‍💻 Author
